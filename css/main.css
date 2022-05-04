@@ -41,3 +41,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.bg-hike-image {
+  background-image: url("../files/ocean_.jpeg");
+  background-position: center center;
+  background-size: 100%
+}
