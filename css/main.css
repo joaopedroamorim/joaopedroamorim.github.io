@@ -1,7 +1,11 @@
+header {
+  padding: 156px 0 100px;
+}
+
 .bg-hike-image {
   background-image: url("../blog/oceanflat.jpg");
   background-position: center center;
-  background-size: 80%;
+  background-size: 100%
 }
 
 body {
