@@ -1,9 +1,10 @@
-header {
-    margin:          0 auto;
-    width:           830px;
-    height:          250px;    
-    background-image: url("/blog/imageswave.jpeg");
+.bg-hike-image {
+  background-image: url("../blog/imageswave.jpeg");
+  background-position: center center;
+  background-size: 100%
+  opacity: 0.6
 }
+
 body {
     margin: 30px auto;
     width: 70%;
