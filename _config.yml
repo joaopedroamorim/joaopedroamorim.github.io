@@ -1,5 +1,5 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
+name: Joao Pedro Amorim
+description: I'm a Physical Oceanographer and this is just a test website
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: kramdown
@@ -13,7 +13,7 @@ plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url: ""
-author: "Your Name"
+author: "Joao Pedro Amorim"
 
 # Disqus config
 disqus-shortname: ""
