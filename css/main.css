@@ -1,6 +1,13 @@
 header {
   padding: 156px 0 100px;
 }
+
+.bg-hike-image {
+  background-image: url("../blog/imagesnasa.jpeg");
+  background-position: center center;
+  background-size: 100%
+}
+
 body {
     margin: 30px auto;
     width: 70%;
