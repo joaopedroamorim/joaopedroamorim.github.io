@@ -1,10 +1,6 @@
 header {
   padding: 156px 0 100px;
-}
-
-.image {
-	background-image: url("../blog/imagesnasa.jpeg");
-	height: 250px;
+  background-image: linear-gradient (rgba(10,90,45,0.8), rgba (90,80,70,0.6)), url("/blog/imagesnasa.jpeg");
 }
 
 body {
