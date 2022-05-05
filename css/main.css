@@ -2,9 +2,9 @@ header {
   padding: 156px 0 100px;
 }
 body {
-    margin: 60px auto;
+    margin: 30px auto;
     width: 70%;
-    background-color: lightblue;
+    background: lightblue;
     opacity: 0.6;
 }
 nav ul, footer ul {
