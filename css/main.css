@@ -2,6 +2,7 @@
   background-image: url("../blog/imageswave.jpeg");
   background-position: center center;
   background-size: 100%
+  background-repeat: no-repeat;
   opacity: 0.6
 }
 
