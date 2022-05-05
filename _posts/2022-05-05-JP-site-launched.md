@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "João Amorim llunches Site"
+title: "João Amorim launches Site"
 date: 2014-04-30
 ---
 
