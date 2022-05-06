@@ -65,3 +65,9 @@ ul.posts li {
   margin-right: auto;
   width: 50%;
 }
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
