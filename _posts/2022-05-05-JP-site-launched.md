@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "João Amorim launches Site"
+title: "Basic Statistic Notebook"
 date: 2022-05-05
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+In this post I'm sharing a notebook with concepts of basic statistics learned during the statistics module of the professional training course in Data Science at <a href ="https://www.xpeducacao.com.br/" > XPEducation - IGTI </a>. To acess the file, please <a href="https://github.com/joaopedroamorim/DS_Codes/blob/main/General_Stats.ipynb"> click here </a>.
